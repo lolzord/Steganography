@@ -1,0 +1,1 @@
+{'admin': 'password', 'basic': 'jumpattack', 'premium': 'coffee', 'floatjump': 'hadoken'}
